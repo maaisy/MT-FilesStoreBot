@@ -38,7 +38,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🗣️ **Any Doubt:** @Mo_Tech_Group
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/AD_8Movie)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍ **Developer:** @AbirHasan2005
